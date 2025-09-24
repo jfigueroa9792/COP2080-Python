@@ -10,3 +10,6 @@ def measure(func):
 @measure
 def f2(sleep_time = 0.1):
     sleep(sleep_time)
+
+if __name__ == "__main__":
+    print("Running directly")
