@@ -67,6 +67,7 @@ class InPersonCourse(Course):
         return self.__schedule  
 
 
+
 ### Testing ###
 '''
 history = InPersonCourse("History", {"Michael", "Drew", "Hannah", "Juan"}, 1032, "MWF 11am - 11:50am", 5)
